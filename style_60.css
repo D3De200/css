@@ -1,0 +1,25 @@
+div {
+    width: 608px;
+    margin: 50px;
+    transition: all 0.5s;
+    border-radius: 10px;
+    color: #fff;
+}
+
+div#blok1_dabrowski:hover {
+    background-color: yellow;
+    font-size: 20mm;
+    color: #000;
+}
+
+div#blok2_dabrowski:hover {
+    background-color: blue;
+    font-size: 20mm;
+    color: #000
+}
+
+div#blok3_dabrowski:hover {
+    background-color: turquoise;
+    font-size: 20mm;
+    color: #000
+}
